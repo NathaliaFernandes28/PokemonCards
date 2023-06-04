@@ -12,7 +12,8 @@ Site do projeto: https://nathaliafernandes28.github.io/PokemonCards/
 
 O site é composto por dez cards com informações e imagens animadas de alguns dos Pokemons mais famosos. 
 Ao passar o cursos pelos cards, vamos essas informações ficarem mais em evidência com o auxilio de propriedades do css. 
-No top da página, temos a opção de visualizar a versão dark do projeto clicando na figura lua e sol no canto direito. Efeito esse construido com JavaScript. 
+No top da página, temos a opção de visualizar a versão dark do projeto clicando na figura lua e sol no canto direito. 
+Efeito esse construido com JavaScript. 
 
 
 🏁 Instalação:
